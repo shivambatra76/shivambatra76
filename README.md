@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I am Shivam Batra:
 A data science enthusiast who likes to share knowledge through git projects and blogs.
 
 
